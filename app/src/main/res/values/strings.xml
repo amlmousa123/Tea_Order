@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tea_Order</string>
+    <string-array name="sugerValues">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+
+</resources>
